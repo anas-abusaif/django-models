@@ -1,0 +1,1 @@
+https://github.com/anas-abusaif/django-models/pull/1
